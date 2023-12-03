@@ -1,0 +1,1 @@
+git remote add log1.txt https://github.com/ruofanhe/learngit.git                                                                  git push -u log1.txt master
